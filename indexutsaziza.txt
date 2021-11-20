@@ -1,7 +1,7 @@
 <html>
 <head> 
     <link rel="stylesheet" type="text/css" href="indexutsbackground.css"> 
-    <title>UTS AZIZA 2110025</title>
+    <title>My Profile</title>
 </head>
 <body bgcolor="#FFEFEC">
 <h1 style="color:black; background-color:lightskyblue;"<h1 align=center>My Profile</h1>
