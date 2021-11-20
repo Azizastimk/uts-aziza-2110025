@@ -1,0 +1,44 @@
+<html>
+<head> 
+    <link rel="stylesheet" type="text/css" href="indexutsbackground.css"> 
+    <title>UTS AZIZA 2110025</title>
+</head>
+<body bgcolor="#FFEFEC">
+<h1 style="color:black; background-color:lightskyblue;"<h1 align=center>My Profile</h1>
+<table width="1000" border="20">
+<tr>
+    <td>Nama</td>
+    <td>:</td>
+    <td><input type="text" name="Jono" size="100"></td>
+</tr>
+<tr>
+    <td>Kelas</td>
+    <td>:</td> 
+    <td><input type="text"  name="7B" size="100"></td>
+</tr>
+<tr>
+    <td>Hoby</td>
+    <td>:</td>
+    <td><input type="text"  name="Coding" size="100"></td>
+</tr>
+<tr>  
+    <td>Kampus</td>
+    <td>:</td>
+    <td><input type="text"  name="Teknik Informasi" size="100"></td>
+</tr>
+<tr>
+    <td>Prodi</td>
+    <td>:</td>
+    <td><select name="Prodi">
+    <option>Teknik Informatika</option>
+    <option>Sistem Informasi</option>
+</select></td>
+</tr>
+<tr>
+    <td><input type="submit" value="Kirim">
+    <input type="reset" value="Batal">
+</td>
+</tr>
+</table>
+</form>
+</html>
